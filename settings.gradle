@@ -1,0 +1,2 @@
+rootProject.name='Mysqlfetchdata'
+include ':app'
